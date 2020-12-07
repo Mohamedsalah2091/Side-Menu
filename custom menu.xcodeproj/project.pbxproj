@@ -14,6 +14,7 @@
 		24C8F04A2576D7E100E0D182 /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 24C8F0492576D7E100E0D182 /* Assets.xcassets */; };
 		24C8F04D2576D7E100E0D182 /* LaunchScreen.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 24C8F04B2576D7E100E0D182 /* LaunchScreen.storyboard */; };
 		24C8F0582576D7E100E0D182 /* custom_menuTests.swift in Sources */ = {isa = PBXBuildFile; fileRef = 24C8F0572576D7E100E0D182 /* custom_menuTests.swift */; };
+		24CA11ED257E644F00B82BFF /* TableViewCell.swift in Sources */ = {isa = PBXBuildFile; fileRef = 24CA11EC257E644F00B82BFF /* TableViewCell.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXContainerItemProxy section */
@@ -38,6 +39,7 @@
 		24C8F0532576D7E100E0D182 /* custom menuTests.xctest */ = {isa = PBXFileReference; explicitFileType = wrapper.cfbundle; includeInIndex = 0; path = "custom menuTests.xctest"; sourceTree = BUILT_PRODUCTS_DIR; };
 		24C8F0572576D7E100E0D182 /* custom_menuTests.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = custom_menuTests.swift; sourceTree = "<group>"; };
 		24C8F0592576D7E100E0D182 /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
+		24CA11EC257E644F00B82BFF /* TableViewCell.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = TableViewCell.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -86,6 +88,7 @@
 				24C8F0492576D7E100E0D182 /* Assets.xcassets */,
 				24C8F04B2576D7E100E0D182 /* LaunchScreen.storyboard */,
 				24C8F04E2576D7E100E0D182 /* Info.plist */,
+				24CA11EC257E644F00B82BFF /* TableViewCell.swift */,
 			);
 			path = "custom menu";
 			sourceTree = "<group>";
@@ -201,6 +204,7 @@
 			buildActionMask = 2147483647;
 			files = (
 				24C8F0452576D7DF00E0D182 /* ViewController.swift in Sources */,
+				24CA11ED257E644F00B82BFF /* TableViewCell.swift in Sources */,
 				24C8F0412576D7DF00E0D182 /* AppDelegate.swift in Sources */,
 				24C8F0432576D7DF00E0D182 /* SceneDelegate.swift in Sources */,
 			);
